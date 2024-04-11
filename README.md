@@ -161,8 +161,8 @@ footer {
   </section>
   
   <aside>
-    <h2>Barra Lateral</h2>
-    <p>Conteúdo da barra lateral.</p>
+    <h2>imagens</h2>
+    <p></p>
   </aside>
 </div>
 
