@@ -53,7 +53,6 @@
         <h2>Bem-vindo ao Meu Site</h2>
         <p></p>
     </section>
-  <a introdução> As bactérias são microorganismos unicelulares e procariontes, o que significa que elas não possuem um núcleo celular verdadeiro e outras organelas membranosas encontradas em células eucarióticas. No entanto, elas possuem uma parede celular rígida que oferece suporte e proteção.</a>
     <footer>
         <p>&copy; 2024 Meu Site</p>
     </footer>
